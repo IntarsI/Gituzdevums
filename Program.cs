@@ -10,6 +10,8 @@ namespace IstaisGituzdevums
             int b = 0;
             int[,] arrd;
             a = Convert.ToInt32(Console.ReadLine());
+            b = Convert.ToInt32(Console.ReadLine());
+            
         }
     }
 }
