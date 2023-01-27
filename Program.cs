@@ -6,7 +6,10 @@ namespace IstaisGituzdevums
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int a = 0;
+            int b = 0;
+            int[,] arrd;
+            a = Convert.ToInt32(Console.ReadLine());
         }
     }
 }
